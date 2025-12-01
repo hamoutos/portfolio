@@ -1,0 +1,142 @@
+<!DOCTYPE html> <!-- Indique que c'est un document HTML5 -->
+<html lang="fr"> <!-- Langue principale définie sur le français -->
+<head>
+  <meta charset="UTF-8"> <!-- Encodage des caractères en UTF-8 (supporte les accents) -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive : adapte l'affichage aux écrans mobiles -->
+  <title>Portfolio de Mohamed-Amine Farik</title> <!-- Titre de l'onglet de la page -->
+
+  <style> /* Début de la section CSS (style interne) */
+
+    /* Supprime les marges et le padding par défaut de tous les éléments */
+    * { 
+      margin: 0; 
+      padding: 0; 
+      box-sizing: border-box; /* Permet un meilleur contrôle des tailles d'éléments */
+    }
+
+    /* Style global de la page */
+    body {
+      font-family: Arial, sans-serif; /* Police utilisée */
+      background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); /* Dégradé en arrière-plan */
+      color: white; /* Couleur du texte */
+      text-align: center; /* Centrage du texte */
+      min-height: 100vh; /* Hauteur minimum : toute la hauteur de l’écran */
+      display: flex;
+      flex-direction: column; /* Organisation verticale des sections */
+    }
+
+    /* En-tête et pied de page avec fond sombre et ombre */
+    header, footer {
+      background: rgba(0, 0, 0, 0.8); /* Noir semi-transparent */
+      padding: 20px; /* Espacement intérieur */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7); /* Ombre portée */
+    }
+
+    /* En-tête reste visible en haut même lors du scroll */
+    header {
+      position: sticky; 
+      top: 0; 
+      z-index: 1000; /* S’assure qu’il reste au-dessus des autres éléments */
+    }
+
+    /* Style du titre principal */
+    h1 {
+      font-size: 2rem; /* Taille du texte */
+      text-transform: uppercase; /* Majuscules */
+      letter-spacing: 3px; /* Espacement entre les lettres */
+    }
+
+    /* Liens dans la nav ou dans la page */
+    nav a, a {
+      color: #00d9ff; /* Bleu clair */
+      margin: 0 15px; /* Espacement horizontal */
+      text-decoration: none; /* Supprime le soulignement */
+      font-weight: bold; /* Texte en gras */
+      transition: 0.3s; /* Effet fluide lors du survol */
+    }
+
+    /* Changement de couleur au survol d’un lien */
+    nav a:hover, a:hover {
+      color: #ff6b6b; /* Rouge rosé au survol */
+    }
+
+    /* Style général des sections */
+    section {
+      padding: 50px 20px; /* Espacement intérieur */
+      flex: 1; /* Prend l’espace disponible */
+    }
+
+    /* Titre des sections */
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #f39c12; /* Orange vif */
+    }
+
+    /* Petite ligne décorative sous les titres */
+    section h2::after {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 3px;
+      background: #00d9ff; /* Bande bleue sous le titre */
+      margin: 10px auto 0;
+    }
+
+    /* Pied de page */
+    footer {
+      font-size: 0.9rem;
+      box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.7); /* Ombre vers le haut */
+    }
+
+  </style> <!-- Fin du style CSS -->
+</head>
+
+<body> <!-- Début du corps de la page -->
+
+  <header> <!-- En-tête -->
+    <h1>Portfolio de Mohamed-Amine Farik</h1> <!-- Titre modifié -->
+    <nav></nav> <!-- Navigation vide ici (peut être remplie plus tard) -->
+  </header>
+
+  <section id="presentation"> <!-- Section "Présentation" -->
+    <h2>Présentation</h2>
+    <p>Bonjour, je m'appelle <strong>Mohamed-Amine Farik</strong> et je suis actuellement étudiant en BTS SIO à l'école <strong>Hecten Paris</strong>.</p>
+    <br>
+    <p>Pour ce qui sont mes centres d'intérêt:<br>je pratique beaucoup de football, de la renfo musculaire et j'aime par dessus tout, optimiser mon PC (c'est mon dada)!!!!</p>
+  </section>
+
+  <section id="parcours">
+    <h2>Parcours scolaire</h2>
+  </section>
+
+  <section id="veille">
+    <h2>Veille technologique</h2>
+  </section>
+
+  <section id="travaux"> <!-- Travaux Pratiques + Projets -->
+    <h2>Travaux Pratiques + Projets</h2>
+  </section>
+
+  <section id="competences"> <!-- Compétences acquises -->
+    <h2>Compétences acquises en cours</h2>
+  </section>
+
+  <section id="stage"> <!-- Stage -->
+    <h2>Stage</h2>
+  </section>
+
+  <section id="contact"> <!-- Contact -->
+    <h2>Contact</h2>
+    <p>Mail : hamoutos91@gmail.com</p>
+    <a href="https://github.com/hamoutos/FARIK">Mon dépôt GitHub</a>
+  </section>
+
+  <footer> <!-- Pied de page -->
+    <p>&copy; 2024 Portfolio Farik Mohamed-Amine. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
