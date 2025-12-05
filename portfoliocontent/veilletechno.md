@@ -28,6 +28,8 @@ Cet article nous informe de la **fuite de données que la fédération de montag
 On parle de 77 256 adhérents d'un coté, et 120 000 de l'autre qui ont vu leur **données personnelles exposées sur Internet** (nom, prénom, date de naissance, Email, adresse postale,identifiant et numéro de téléphone).
 L'auteur, de manière préventive **nous veut être très vigilent avec les cyberattaques** et indirectement nous **demande d'être très Minutieux**
 
+source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?utm_source=newsletter&utm_medium=email&utm_campaign=01netDaily25_12_05
+
 
 
 
