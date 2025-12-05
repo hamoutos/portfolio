@@ -46,6 +46,11 @@ Une cyberattaque majeure a frappé les lycées des Hauts-de-France. Le groupe Qi
 
 L’attaque repose sur l’utilisation d’un ransomware, d’une intrusion réseau et d’une exfiltration massive de données, suivie de la publication de certaines informations sur le dark web pour prouver le vol. La région a porté plainte et limite ses communications pour ne pas gêner l’enquête. Cet incident s’ajoute à d’autres attaques récentes dans la région, confirmant une augmentation inquiétante des cyberattaques et des fuites de données en France.
 
+source: https://www.01net.com/actualites/pour-decrocher-le-bac-deux-ados-ont-pirate-leur-lycee.html?utm_source=newsletter&utm_medium=email&utm_campaign=01netDaily25_12_05
+"Pour décrocher le bac, deux ados ont piraté leur lycée : ils sont condamnés du 16 octobre 2025"
+
+Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger, un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. Grâce à cette manipulation, ils ont pu obtenir le bac sans difficulté. L’affaire a été découverte lorsque l’un des deux a diffusé des messages privés volés. Cette intrusion illustre comment les fuites de données via malware et keylogger peuvent être exploitées pour accéder à des informations sensibles et manipuler des systèmes scolaires. Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.
+
 
 
 
