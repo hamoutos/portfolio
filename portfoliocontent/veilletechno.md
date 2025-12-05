@@ -29,6 +29,15 @@ On parle de 77 256 adhérents d'un coté, et 120 000 de l'autre qui ont vu leur 
 L'auteur, de manière préventive **nous veut être très vigilent avec les cyberattaques** et indirectement nous **demande d'être très Minutieux**
 
 source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?utm_source=newsletter&utm_medium=email&utm_campaign=01netDaily25_12_05
+"Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
+
+Bouygues Telecom alerte ses clients sur une vague de smishing (phishing par SMS) exploitant la fuite de données survenue cet été.
+Les pirates utilisent plusieurs techniques :
+Smishing pour envoyer de faux messages bancaires,
+Phishing via un lien malveillant récoltant des données personnelles,
+Ingénierie sociale pour créer l’urgence et pousser les victimes à divulguer leurs informations.
+Ils cherchent ainsi à dérober des coordonnées personnelles et bancaires.
+Bouygues rappelle de ne jamais transmettre d’informations sensibles et de vérifier toute alerte via les canaux officiels.
 
 
 
