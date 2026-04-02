@@ -1,0 +1,20 @@
+# Cahier des Charges, Pare-feu pfSense
+
+**Organisation :** École Hecten (Laboratoire technique)
+**Objectif :** Sécuriser l'accès internet du réseau local "Corporation".
+
+### 1. Architecture Réseau
+* **Interface WAN :** Accès internet (DHCP ou IP fixe selon le labo).
+* **Interface LAN :** Réseau interne (Ex: 192.168.10.254 /24).
+
+### 2. Besoins Techniques
+* **DHCP :** Le pfSense doit distribuer des IP aux postes clients du LAN.
+* **NAT :** Permettre aux machines privées de sortir sur Internet.
+* **Filtrage :** * Autoriser le Web (HTTP/HTTPS) et le DNS.
+    * Bloquer tout le reste par défaut (Politique de sécurité restrictive).
+    * Interdire le PING (ICMP) vers l'interface LAN depuis l'extérieur.
+
+### 3. Livrables attendus
+* Interface d'administration fonctionnelle.
+* Table de règles de pare-feu configurée.
+* Rapport de test prouvant que le client LAN accède à Internet mais est protégé.
