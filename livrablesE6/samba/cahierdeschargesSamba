@@ -3,15 +3,15 @@
 **Organisation :** École Hecten (Laboratoire technique)
 **Contexte :** Mise en place d'un serveur de fichiers sécurisé pour une une école.
 
-###1. Besoins Fonctionnels
+## 1. Besoins Fonctionnels
 * Centralisation des documents des services : Administrateurs et Utiisateurs
 * Authentification unique pour les utilisateurs via un domaine.
 
-###2. Contraintes Techniques
+## 2. Contraintes Techniques
 * **OS Serveur :** Linux (Ubuntu/Debian) avec Samba 4.
 * **Domaine :** `Corporation.local`
 * **Sécurité :** Administration via SSH uniquement.
 
-###3. Résultats Attendus
+## 3. Résultats Attendus
 * Partages invisibles pour les utilisateurs non autorisés.
 * Dossier "Public" en lecture seule pour tous.
