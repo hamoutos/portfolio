@@ -41,6 +41,11 @@ Pour identifier des lieux sur vos clichés, l'application Photos ne se contente 
 
 **Début janvier 2025, Showroomprivé a subi une attaque par « credential stuffing »,** une technique où des pirates testent des identifiants volés sur d'autres plateformes pour forcer l'accès à de nouveaux comptes. Bien que le système de surveillance ait détecté l'intrusion à temps, empêchant ainsi une fuite directe de données internes, **l'enseigne a dû réinitialiser massivement les mots de passe des comptes compromis et notifier la CNIL.** Cet incident illustre l'effet rebond des fuites de données massives en France, où le recyclage des mots de passe par les utilisateurs devient une vulnérabilité critique exploitée en cascade par les cybercriminels.
 
+- source: https://www.01net.com/actualites/plus-de-5-000-sites-ont-ete-compromis-mysterieuse-cyberattaque.html
+"Plus de 5 000 sites ont été compromis lors d’une mystérieuse cyberattaque" du 15 janvier 2025
+
+**Une vaste campagne de cyberattaques, d’origine encore inconnue, a compromis plus de 5 000 sites WordPress dans le monde pour exfiltrer des données sensibles. Les pirates injectent un script malveillant qui crée des comptes administrateurs non autorisés et installe un plugin pirate** dédié au vol d’identifiants et de journaux système. **Pour stopper cette fuite de données massive vers des serveurs distants, les experts recommandent de bloquer le domaine incriminé (wp3[.]xyz), de supprimer les comptes suspects et de généraliser l'authentification à deux facteurs.** Ce cas illustre la vulnérabilité des infrastructures web face à des scripts tiers malveillants capables de prendre le contrôle total d'un site à l'insu de ses propriétaires.
+
 - source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
 
