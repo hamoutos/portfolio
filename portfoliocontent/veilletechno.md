@@ -9,33 +9,33 @@ Bienvenu dans ma veille technologie
 Etant donné que ma formation se porte sur le **réseau informatique en général (relation entre machines interconnectés)** 
 et que ces mêmes réseaux se doivent d'être contrôler, alors ma veille se portera donc sur la protection et les fuites de donnnées.
 
-*source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
+- source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
 "INTERDATA, Notre expertise, votre serennité" du 17 juillet 2024.
 
 **Dans cet article, on nous problématise le fait que des infrastructures IT peuvent êtere vulnérable.**
 On nous présente les **4 niveaux de sécurité**, **les moyens de protection de réseau**(tel qu'une anticipation de risque, une vigilance continu du réseau) **les risques possible sont** (ramsowares, DDos et failles de sécurité) et enfin on nous dit **comment sécuriser une infrastructure réseau IT** avec les exemples du parefeu, des systèmes d'infrastructure réseau et des audits d'infrastructures avec la venue des spécialistes pour detecter les eventuelles failles ou vulnérabilités.
 
--source: https://www.01net.com/actualites/sites-pirates-coute-15-milliards-euros-secteur-audiovisuel-2023-selon-arcom.html
+- source: https://www.01net.com/actualites/sites-pirates-coute-15-milliards-euros-secteur-audiovisuel-2023-selon-arcom.html
 "Les sites pirates ont couté 1,5 milliard d’euros au secteur audiovisuel en 2023, selon l’Arcom" du 29 novembre 2024
 
 Cet article met avant les **pertes astronomiques que le piratages de chaines Tv endurent.**
 En effet, les chiffres reportés tel que les **pirates ont coutés environ 12 Millions d'euros aux finances publics Francaise** ou que **le marché illégal prend 12% du marché de l'audio soit 12 milliards d'Euro** montre que les pertes sont gigantesque.
 C'est pourquoi l'Arcom en fonction de ce qui est diffusé, bloque ou incite les chaines Tv a baissé leur abonnement.
 
--source: https://www.01net.com/actualites/openai-chatgpt-condamne-pour-la-premiere-fois-en-europe-a-une-amende-salee-sur-le-terrain-des-donnees-personnelles.html
+- source: https://www.01net.com/actualites/openai-chatgpt-condamne-pour-la-premiere-fois-en-europe-a-une-amende-salee-sur-le-terrain-des-donnees-personnelles.html
 "OpenAI (ChatGPT) condamné pour la première fois en Europe à une amende salée, sur le terrain des données personnelles" du 20 décembre 2024
 
 **La Garante (autorité italienne) a infligé une amende de 15 M€ à OpenAI pour violation du RGPD.**
 Outre cette sanction financière, **l'entreprise est contrainte de mener une campagne d'information massive de six mois pour garantir la transparence sur l'usage des données et permettre aux utilisateurs d'exercer concrètement leurs droits d'opposition et de suppression.** Ce précédent majeur, qui s'inscrit dans un contexte de quatorze autres enquêtes européennes, marque un tournant dans la régulation de l'IA générative et la protection de la vie privée à l'échelle du continent.
 
--source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
+- source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
 
 Cet article nous informe de la **fuite de données que la fédération de montagne, d'Escalade et de tir à l'arc** aie subit.
 On parle de 77 256 adhérents d'un coté, et 120 000 de l'autre qui ont vu leur **données personnelles exposées sur Internet** (nom, prénom, date de naissance, Email, adresse postale,identifiant et numéro de téléphone).
 L'auteur, de manière préventive **nous veut être très vigilent avec les cyberattaques** et indirectement nous **demande d'être très Minutieux**
 
--source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
+- source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
 "Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
 
 **Bouygues Telecom alerte ses clients sur une vague de smishing (phishing par SMS) exploitant la fuite de données survenue cet été.**
@@ -45,7 +45,7 @@ Phishing via un lien malveillant récoltant des données personnelles,
 Ingénierie sociale pour créer l’urgence et pousser les victimes à divulguer leurs informations.
 **Ils cherchent ainsi à dérober des coordonnées personnelles et bancaires. Bouygues rappelle de ne jamais transmettre d’informations sensibles et de vérifier toute alerte via les canaux officiels.**
 
--source: https://www.01net.com/actualites/apres-cyberattaque-80-lycees-hauts-france-prives-ordinateurs.html
+- source: https://www.01net.com/actualites/apres-cyberattaque-80-lycees-hauts-france-prives-ordinateurs.html
 "Cyberattaque contre des lycées français : les données des élèves ont été piratées, c’est confirmé" du 16 octobre 2025
 
 **Une cyberattaque majeure a frappé les lycées des Hauts-de-France. 
@@ -54,7 +54,7 @@ Près de 80 % des lycées publics sont touchés et tous les ordinateurs doivent 
 L’attaque repose sur l’utilisation d’un ransomware, d’une intrusion réseau et d’une exfiltration massive de données, suivie de la publication de certaines informations sur le dark web pour prouver le vol. 
 La région a porté plainte et limite ses communications pour ne pas gêner l’enquête. **Cet incident s’ajoute à d’autres attaques récentes dans la région, confirmant une augmentation inquiétante des cyberattaques et des fuites de données en France.**
 
--source: https://www.01net.com/actualites/pour-decrocher-le-bac-deux-ados-ont-pirate-leur-lycee.html
+- source: https://www.01net.com/actualites/pour-decrocher-le-bac-deux-ados-ont-pirate-leur-lycee.html
 "Pour décrocher le bac, deux ados ont piraté leur lycée : ils sont condamnés" du 16 octobre 2025
 
 **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
