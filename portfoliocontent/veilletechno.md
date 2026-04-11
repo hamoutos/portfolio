@@ -9,7 +9,7 @@ Bienvenu dans ma veille technologie
 Etant donné que ma formation se porte sur le **réseau informatique en général (relation entre machines interconnectés)** 
 et que ces mêmes réseaux se doivent d'être contrôler, alors ma veille se portera donc sur la protection et les fuites de donnnées.
 
--source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
+*source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
 "INTERDATA, Notre expertise, votre serennité" du 17 juillet 2024.
 
 **Dans cet article, on nous problématise le fait que des infrastructures IT peuvent êtere vulnérable.**
