@@ -5,8 +5,7 @@ Ma Veille technologique
  **sources: 01.net**  **interdata**  **le monde informatique**
   
 Bienvenu dans ma veille technologie  
-Etant donné que ma formation se porte sur le **réseau informatique en général (relation entre machines interconnectés)** 
-et que ces mêmes réseaux se doivent d'être contrôler, alors ma veille se portera donc sur la protection et les fuites de donnnées.
+Etant donné que ma formation se porte sur le réseau informatique en général (relation entre machines interconnectés) et que ces mêmes connexions se doivent d'être contrôler, **alors ma veille se portera donc sur la protection et les fuites de donnnées.**
 
 - source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
 "INTERDATA, Notre expertise, votre serennité" du 17 juillet 2024.
@@ -26,6 +25,12 @@ C'est pourquoi l'Arcom en fonction de ce qui est diffusé, bloque ou incite les 
 
 **La Garante (autorité italienne) a infligé une amende de 15 M€ à OpenAI pour violation du RGPD.**
 Outre cette sanction financière, **l'entreprise est contrainte de mener une campagne d'information massive de six mois pour garantir la transparence sur l'usage des données et permettre aux utilisateurs d'exercer concrètement leurs droits d'opposition et de suppression.** Ce précédent majeur, qui s'inscrit dans un contexte de quatorze autres enquêtes européennes, marque un tournant dans la régulation de l'IA générative et la protection de la vie privée à l'échelle du continent.
+
+- source:https://www.01net.com/actualites/ios-18-application-photos-envoie-discretement-donnees-apple-comment-empecher.html
+"iOS 18 : l’application Photos envoie discrètement des données à Apple, voici comment l’en empêcher" du 30 décembre 2024
+
+**Avec iOS 18, Apple a discrètement activé par défaut une option de « recherche visuelle améliorée » qui pose problème pour la protection des données.
+Pour identifier des lieux sur vos clichés, l'application Photos ne se contente plus d'un travail interne à l'appareil, mais envoie désormais des informations extraites de vos images vers les serveurs d'Apple.** Même si la marque affirme protéger l'anonymat des transferts, cette pratique transforme des photos privées en données sortantes sans le consentement explicite de l'utilisateur. **Pour stopper cette fuite d'informations vers le cloud, il est recommandé de désactiver manuellement cette option dans les réglages de l'application Photos.** 
 
 - source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
@@ -58,8 +63,8 @@ La région a porté plainte et limite ses communications pour ne pas gêner l’
 
 **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
 **Grâce à cette manipulation, ils ont pu obtenir le bac sans difficulté.** L’affaire a été découverte lorsque l’un des deux a diffusé des messages privés volés.
-**Cette intrusion illustre comment les fuites de données via malware et keylogger peuvent être exploitées pour accéder à des informations sensibles et manipuler des systèmes scolaires.
-Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
+**Cette intrusion illustre comment les fuites de données via malware et keylogger peuvent être exploitées pour accéder à des informations sensibles et manipuler des systèmes scolaires. Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
+
 
 
 
