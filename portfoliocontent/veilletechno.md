@@ -32,6 +32,11 @@ Outre cette sanction financière, **l'entreprise est contrainte de mener une cam
 **Avec iOS 18, Apple a discrètement activé par défaut une option de « recherche visuelle améliorée » qui pose problème pour la protection des données.
 Pour identifier des lieux sur vos clichés, l'application Photos ne se contente plus d'un travail interne à l'appareil, mais envoie désormais des informations extraites de vos images vers les serveurs d'Apple.** Même si la marque affirme protéger l'anonymat des transferts, cette pratique transforme des photos privées en données sortantes sans le consentement explicite de l'utilisateur. **Pour stopper cette fuite d'informations vers le cloud, il est recommandé de désactiver manuellement cette option dans les réglages de l'application Photos.** 
 
+- source: https://www.01net.com/actualites/les-donnees-volees-de-schneider-electric-auraient-fuite-sur-le-dark-web.html
+"Les données volées de Schneider Electric auraient fuité sur le dark web" du 30 décembre 2024
+
+**Suite à une cyberattaque en novembre, Schneider Electric a vu 40 Go de données sensibles être publiés sur le dark web le 29 décembre après avoir refusé de céder au chantage du groupe de pirates Hellcat.** La fuite concerne une plateforme interne de suivi de projets et contiendrait plus de 400 000 lignes de données utilisateurs, ainsi que des informations confidentielles sur des clients et des opérations industrielles. En choisissant de ne pas payer la rançon (initialement réclamée en cryptomonnaie), l'entreprise française suit les recommandations des autorités de cybersécurité mais expose ainsi des données stratégiques à une diffusion publique, illustrant les risques majeurs liés à l'exfiltration de données lors d'une intrusion.
+
 - source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
 
