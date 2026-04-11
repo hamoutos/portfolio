@@ -74,18 +74,22 @@
       border-radius: 10px;
     }
 
+    /* AJOUT ICI : Liaison du bouton 6 (stages) pour l'affichage */
     #tab1:checked ~ #content-presentation,
     #tab2:checked ~ #content-parcours,
     #tab3:checked ~ #content-veille,
     #tab4:checked ~ #content-travaux,
+    #tab6:checked ~ #content-stages, 
     #tab5:checked ~ #content-contact {
       display: block;
     }
 
+    /* AJOUT ICI : Couleur de l'onglet Stages quand il est actif */
     #tab1:checked ~ header nav label[for="tab1"],
     #tab2:checked ~ header nav label[for="tab2"],
     #tab3:checked ~ header nav label[for="tab3"],
     #tab4:checked ~ header nav label[for="tab4"],
+    #tab6:checked ~ header nav label[for="tab6"],
     #tab5:checked ~ header nav label[for="tab5"] {
       background: #00d9ff;
       color: #0f2027;
@@ -105,7 +109,6 @@
       max-width: 800px;
       margin: 0 auto 15px auto;
       text-shadow: 1px 1px 5px rgba(0,0,0,1);
-      /* Chaque info sur une ligne */
       display: block;
     }
 
@@ -147,7 +150,7 @@
   <input type="radio" name="tabs" id="tab2" class="tab-radio">
   <input type="radio" name="tabs" id="tab3" class="tab-radio">
   <input type="radio" name="tabs" id="tab4" class="tab-radio">
-  <input type="radio" name="tabs" id="tab5" class="tab-radio">
+  <input type="radio" name="tabs" id="tab6" class="tab-radio"> <input type="radio" name="tabs" id="tab5" class="tab-radio">
 
   <header>
     <h1>Mohamed-Amine Farik</h1>
@@ -156,7 +159,7 @@
       <label for="tab2" class="tab-label">Parcours</label>
       <label for="tab3" class="tab-label">Veille</label>
       <label for="tab4" class="tab-label">Travaux</label>
-      <label for="tab5" class="tab-label">Contact</label>
+      <label for="tab6" class="tab-label">Stages</label> <label for="tab5" class="tab-label">Contact</label>
     </nav>
   </header>
 
@@ -207,20 +210,11 @@
   </section>
 
   <footer>
-    <p>2026 Portfolio Farik Mohamed-Amine. Tous droits réservés.</p>
+    <p> 2026 Portfolio Farik Mohamed-Amine. Tous droits réservés.</p>
   </footer>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
 
 
 
