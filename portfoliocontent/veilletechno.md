@@ -20,7 +20,7 @@ C'est pourquoi l'Arcom en fonction de ce qui est diffusé, bloque ou incite les 
 **La Garante (autorité italienne) a infligé une amende de 15 M€ à OpenAI pour violation du RGPD.**
 Outre cette sanction financière, **l'entreprise est contrainte de mener une campagne d'information massive de six mois pour garantir la transparence sur l'usage des données et permettre aux utilisateurs d'exercer concrètement leurs droits d'opposition et de suppression.** Ce précédent majeur, qui s'inscrit dans un contexte de quatorze autres enquêtes européennes, marque un tournant dans la régulation de l'IA générative et la protection de la vie privée à l'échelle du continent.
 
-- source:https://www.01net.com/actualites/ios-18-application-photos-envoie-discretement-donnees-apple-comment-empecher.html
+- source: https://www.01net.com/actualites/ios-18-application-photos-envoie-discretement-donnees-apple-comment-empecher.html
 "iOS 18 : l’application Photos envoie discrètement des données à Apple, voici comment l’en empêcher" du 30 décembre 2024
 
 **Avec iOS 18, Apple a discrètement activé par défaut une option de « recherche visuelle améliorée » qui pose problème pour la protection des données.
