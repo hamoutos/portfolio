@@ -31,6 +31,11 @@ Pour identifier des lieux sur vos clichés, l'application Photos ne se contente 
 
 **Suite à une cyberattaque en novembre, Schneider Electric a vu 40 Go de données sensibles être publiés sur le dark web le 29 décembre après avoir refusé de céder au chantage du groupe de pirates Hellcat.** La fuite concerne une plateforme interne de suivi de projets et contiendrait plus de 400 000 lignes de données utilisateurs, ainsi que des informations confidentielles sur des clients et des opérations industrielles. En choisissant de ne pas payer la rançon (initialement réclamée en cryptomonnaie), l'entreprise française suit les recommandations des autorités de cybersécurité mais expose ainsi des données stratégiques à une diffusion publique, illustrant les risques majeurs liés à l'exfiltration de données lors d'une intrusion.
 
+- source:https://www.01net.com/actualites/siri-accuse-ecoutes-abusives-apple-regle-recours-collectif-95-millions-dollars.html
+"Siri accusé d’écoutes abusives : Apple règle un recours collectif pour 95 millions de dollars" du 6 janvier 2025
+
+Apple a conclu un accord à l’amiable de 95 millions de dollars pour clore une action collective lancée en 2019 concernant des violations de la vie privée par Siri. Les plaignants accusaient l'assistant vocal d'enregistrer des conversations privées suite à des activations accidentelles et de transmettre ces données à des tiers, entraînant du ciblage publicitaire non consenti. Bien qu’Apple nie toute faute technique ou revente d'informations, ce règlement couvre une période massive de fuites potentielles (2014-2024) et souligne les risques de sécurité liés à l'écoute passive des assistants connectés et au traitement humain des extraits sonores.
+
 - source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
 
