@@ -62,7 +62,7 @@ La région a porté plainte et limite ses communications pour ne pas gêner l’
 
 **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
 **Grâce à cette manipulation, ils ont pu obtenir le bac sans difficulté.** L’affaire a été découverte lorsque l’un des deux a diffusé des messages privés volés.
-**Cette intrusion illustre comment les fuites de données via malware et keylogger peuvent être exploitées pour accéder à des informations sensibles et manipuler des systèmes scolaires. Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
+Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
 
 
 
