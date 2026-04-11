@@ -1,212 +1,217 @@
-<!DOCTYPE html> <!-- Indique que c'est un document HTML5 -->
-<html lang="fr"> <!-- Langue principale définie sur le français -->
+<!DOCTYPE html>
+<html lang="fr">
 <head>
-  <meta charset="UTF-8"> <!-- Encodage des caractères en UTF-8 (supporte les accents) -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive : adapte l'affichage aux écrans mobiles -->
-  <title>Portfolio de Mohamed-Amine Farik</title> <!-- Titre de l'onglet de la page -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio de Mohamed-Amine Farik</title>
 
-  <style> /* Début de la section CSS (style interne) */
-
-    /* Supprime les marges et le padding par défaut de tous les éléments */
+  <style>
+    /* --- RESET & BASE --- */
     * { 
       margin: 0; 
       padding: 0; 
-      box-sizing: border-box; /* Permet un meilleur contrôle des tailles d'éléments */
+      box-sizing: border-box; 
     }
 
-    /* Style global de la page */
     body {
-      font-family: Arial, sans-serif; /* Police utilisée */
-      background: linear-gradient(120deg, #0f2027, #203a43, #2c5364); /* Dégradé en arrière-plan */
-      color: white; /* Couleur du texte */
-      text-align: center; /* Centrage du texte */
-      min-height: 100vh; /* Hauteur minimum : toute la hauteur de l’écran */
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: white;
+      text-align: center;
+      min-height: 100vh;
       display: flex;
-      flex-direction: column; /* Organisation verticale des sections */
+      flex-direction: column;
+      background: #0f2027; 
     }
 
-    /* En-tête et pied de page avec fond sombre et ombre */
-    header, footer {
-      background: rgba(0, 0, 0, 0.8); /* Noir semi-transparent */
-      padding: 20px; /* Espacement intérieur */
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7); /* Ombre portée */
-    }
-
-    /* En-tête reste visible en haut même lors du scroll */
     header {
-      position: sticky; 
-      top: 0; 
-      z-index: 1000; /* S’assure qu’il reste au-dessus des autres éléments */
+      background: rgba(0, 0, 0, 0.9);
+      padding: 20px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      border-bottom: 2px solid #00d9ff;
     }
 
-    /* Style du titre principal */
     h1 {
-      font-size: 2rem; /* Taille du texte */
-      text-transform: uppercase; /* Majuscules */
-      letter-spacing: 3px; /* Espacement entre les lettres */
-    }
-
-    /* Liens dans la nav ou dans la page */
-    nav a, a {
-      color: #00d9ff; /* Bleu clair */
-      margin: 0 15px; /* Espacement horizontal */
-      text-decoration: none; /* Supprime le soulignement */
-      font-weight: bold; /* Texte en gras */
-      transition: 0.3s; /* Effet fluide lors du survol */
-    }
-
-    /* Changement de couleur au survol d’un lien */
-    nav a:hover, a:hover {
-      color: #ff6b6b; /* Rouge rosé au survol */
-    }
-
-    /* Style général des sections */
-    section {
-      padding: 50px 20px; /* Espacement intérieur */
-      flex: 1; /* Prend l’espace disponible */
-    }
-
-    /* Titre des sections */
-    section h2 {
-      font-size: 1.8rem;
-      margin-bottom: 20px;
+      font-size: 2rem;
       text-transform: uppercase;
-      letter-spacing: 2px;
-      color: #f39c12; /* Orange vif */
+      letter-spacing: 3px;
+      text-shadow: 2px 2px 10px rgba(0,0,0,1);
     }
 
-    /* Petite ligne décorative sous les titres */
-    section h2::after {
-      content: "";
+    /* --- LOGIQUE DES ONGLETS --- */
+    .tab-radio {
+      display: none;
+    }
+
+    .nav-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 15px;
+      flex-wrap: wrap;
+    }
+
+    .tab-label {
+      padding: 10px 20px;
+      border: 2px solid #00d9ff;
+      color: #00d9ff;
+      cursor: pointer;
+      font-weight: bold;
+      border-radius: 5px;
+      transition: 0.3s;
+      background: rgba(0,0,0,0.5);
+    }
+
+    /* --- AFFICHAGE DES SECTIONS --- */
+    .tab-content {
+      display: none;
+      padding: 60px 20px;
+      min-height: 70vh;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      margin: 20px 0;
+      border-radius: 10px;
+    }
+
+    #tab1:checked ~ #content-presentation,
+    #tab2:checked ~ #content-parcours,
+    #tab3:checked ~ #content-veille,
+    #tab4:checked ~ #content-travaux,
+    #tab5:checked ~ #content-contact {
       display: block;
-      width: 60px;
-      height: 3px;
-      background: #00d9ff; /* Bande bleue sous le titre */
-      margin: 10px auto 0;
     }
 
-    /* Pied de page */
+    #tab1:checked ~ header nav label[for="tab1"],
+    #tab2:checked ~ header nav label[for="tab2"],
+    #tab3:checked ~ header nav label[for="tab3"],
+    #tab4:checked ~ header nav label[for="tab4"],
+    #tab5:checked ~ header nav label[for="tab5"] {
+      background: #00d9ff;
+      color: #0f2027;
+    }
+
+    /* --- ÉLÉMENTS DE TEXTE --- */
+    h2 {
+      color: #f39c12;
+      font-size: 2.5rem;
+      margin-bottom: 30px;
+      text-transform: uppercase;
+      text-shadow: 2px 2px 10px rgba(0,0,0,1);
+    }
+
+    p {
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: 0 auto 15px auto;
+      text-shadow: 1px 1px 5px rgba(0,0,0,1);
+      /* Chaque info sur une ligne */
+      display: block;
+    }
+
+    strong {
+      color: #00d9ff;
+    }
+
+    .github-link {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 25px;
+      background: rgba(0,0,0,0.7);
+      border: 1px solid #ff6b6b;
+      color: #00d9ff;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      transition: 0.3s;
+      width: 90%;
+      max-width: 600px;
+    }
+
+    .github-link:hover {
+      background: #ff6b6b;
+      color: white;
+    }
+
     footer {
-      font-size: 0.9rem;
-      box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.7); /* Ombre vers le haut */
+      background: black;
+      padding: 20px;
+      margin-top: auto;
     }
 
-  </style> <!-- Fin du style CSS -->
+  </style>
 </head>
+<body>
 
-<body> <!-- Début du corps de la page -->
+  <input type="radio" name="tabs" id="tab1" class="tab-radio" checked>
+  <input type="radio" name="tabs" id="tab2" class="tab-radio">
+  <input type="radio" name="tabs" id="tab3" class="tab-radio">
+  <input type="radio" name="tabs" id="tab4" class="tab-radio">
+  <input type="radio" name="tabs" id="tab5" class="tab-radio">
 
-  <header> <!-- En-tête -->
-    <h1>Portfolio de Mohamed-Amine Farik</h1> <!-- Titre modifié -->
-    <nav></nav> <!-- Navigation vide ici (peut être remplie plus tard) -->
+  <header>
+    <h1>Mohamed-Amine Farik</h1>
+    <nav class="nav-tabs">
+      <label for="tab1" class="tab-label">Présentation</label>
+      <label for="tab2" class="tab-label">Parcours</label>
+      <label for="tab3" class="tab-label">Veille</label>
+      <label for="tab4" class="tab-label">Travaux</label>
+      <label for="tab5" class="tab-label">Contact</label>
+    </nav>
   </header>
 
-  <section id="presentation"> <!-- Section "Présentation" -->
+  <section id="content-presentation" class="tab-content">
     <h2>Présentation</h2>
-    <p>Bonjour, je m'appelle <strong>Mohamed-Amine Farik</strong> et je suis actuellement étudiant en BTS SIO à l'école <strong>Hecten Paris</strong>.</p>
-    <br>
-    <p>Pour ce qui sont mes centres d'intérêt:<br>je pratique beaucoup de football, de la renfo musculaire et j'aime par dessus tout, optimiser mon PC (c'est mon dada)!!!!</p>
+    <p>Bonjour, je m'appelle <strong>Mohamed-Amine Farik</strong>.</p>
+    <p>Étudiant en BTS SIO à l'école <strong>Hecten Paris</strong>.</p>
+    <p>Je suis actuellement en train de finaliser mon BTS.</p>
   </section>
 
-  <section id="parcours">
+  <section id="content-parcours" class="tab-content">
     <h2>Parcours scolaire</h2>
-    <br>Collège Pablo Picasso (Saulx les Chartreux): Brevet des collèges
-    <br>Lycée Jacques Prévert (Longjumeau): Baccalauréat général
-    <br><br>CFA Hecten (Paris): Brevet de technicien supérieur Services Informatique aux Organisations en cours....
+    <p>Brevet des collèges : <strong>Mention Bien</strong>.</p>
+    <p>Baccalauréat général : <strong>Sans mention</strong>.</p>
+    <p>BTS SIO : <strong>En cours de finalisation</strong>.</p>
   </section>
 
-  <section id="veille">
+  <section id="content-stages" class="tab-content">
+    <h2>Rapports de Stage</h2>
+    <p>Voici les documents relatifs à mes expériences professionnelles :</p>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/rapportDstage1.pdf" class="github-link" target="_blank">💼 Rapport de Stage - 1ère Année</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/RapporDstage2.pdf" class="github-link" target="_blank">💼 Rapport de Stage - 2ème Année</a>
+  </section>
+
+  <section id="content-veille" class="tab-content">
     <h2>Veille technologique</h2>
-    Voilà quelques articles que j’ai consultés récemment, dont les thèmes principaux sont 
-    <br> la protection et les fuites de données
-    <br> <a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/veilletechno.md" target="_blank">
-  Voir ma veille technologique
-</a>
-
+    <p>Thème : La protection et les fuites de données</p>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/veilletechno.md" class="github-link" target="_blank">📄 Lire ma veille</a>
   </section>
 
-  <section id="travaux"> <!-- Travaux Pratiques + Projets -->
+  <section id="content-travaux" class="tab-content">
     <h2>Travaux Pratiques + Projets</h2>
-    <br> <section id="travaux"> <!-- Travaux Pratiques + Projets -->
-  <ul style="list-style:none; padding:0;">
-    <li>
-  <a href="https://github.com/hamoutos/portfolio/blob/main/Exercices_Fondamentaux%20des_R%C3%A9seaux/exo_fondamentaux_reso.pdf" target="_blank">
-    TP - exo fondamentaux reseau
-  </a>
-  </li>
-    <li>
-      <a href="https://github.com/hamoutos/portfolio/blob/main/configdebianVM/config_debianVM.pdf" target="_blank">
-        TP – Configuration Debian sur VM
-      </a>
-    </li>
-
-    <li>
-      <a href="https://github.com/hamoutos/portfolio/blob/main/configROUTEURcisco_routestatiK/configROUTEUR%20cisco_routestatiK.pdf" target="_blank">
-        TP – Configuration routeur Cisco (routes statiques)
-      </a>
-    </li>
-
-    <li>
-      <a href="https://github.com/hamoutos/portfolio/blob/main/MINITP_LINUX_SSH_IPSTATIK/MINITP.pdf" target="_blank">
-        Mini-TP(Debian)
-      </a>
-    </li>
-
-    <li>
-      <a href="https://github.com/hamoutos/portfolio/blob/main/meilleurexor%C3%A9seautage/meilleurexor%C3%A9seautage.pdf" target="_blank">
-        TP – calcul de réseautage
-      </a>
-    </li>
-
-    <li>
-      <a href="https://github.com/hamoutos/portfolio/blob/main/tp_d%C3%A9couvrir_p%C3%A9riph%C3%A9riques/apprentissagep%C3%A9riph%C3%A9rique.pdf" target="_blank">
-        TP – Découvrir les périphériques
-      </a>
-    </li>
-  </ul>
-
-</section>
-
-      
-    </a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_fondamentauxReseau/exo_fondamentaux_reso.pdf" class="github-link" target="_blank">📄 Fondamentaux réseaux</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_configdebian/config_debianVM.pdf" class="github-link" target="_blank">📄 Configuration Debian sur VM</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_routeStatiques/configROUTEUR%20cisco_routestatiK.pdf" class="github-link" target="_blank">📄 Routeur Cisco (Statique)</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_LinuxSSH./MINITP.pdf" class="github-link" target="_blank">📄 Mini-TP Debian (SSH)</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_exoReseautageIp/meilleurexor%C3%A9seautage.pdf" class="github-link" target="_blank">📄 Calcul de réseautage</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_d%C3%A9couvrir_p%C3%A9riph%C3%A9riques/apprentissagep%C3%A9riph%C3%A9rique.pdf" class="github-link" target="_blank">📄 Découverte périphériques</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_configparam%C3%A8tresrouteurs/DOCconfigparam%C3%A8tresrouteurs.pdf" class="github-link" target="_blank">📄 Configs simple de routeurs</a>
+    <a href="https://github.com/hamoutos/portfolio/blob/main/tp_identifyIP/TPidentifiyIP.pdf" class="github-link" target="_blank">📄 calcul de réseautage 2</a>
   </section>
 
-  <section id="competences"> <!-- Compétences acquises -->
-    <h2>Compétences acquises en cours</h2>
-  </section>
-
-  <section id="stage"> <!-- Stage -->
-    <h2>Stage</h2>
-    <br>rapport de stage de 1re année : 
-<a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/rapportDstage2.pdf" target="_blank">
-  Voir le rapport (PDF)
-</a>
-
-  </section>
-
-  <section id="contact"> <!-- Contact -->
+  <section id="content-contact" class="tab-content">
     <h2>Contact</h2>
-    <p>Mail : hamoutos91@gmail.com
-    <br>tel: 0757575124
-    <br>lien dépôt GitHub : <a href="https://github.com/hamoutos/portfolio/blob/main/portfoliocontent/lien_github" target="_blank">https://github.com/hamoutos/portfolio</a> 
-    </p>
+    <p>Mail : hamoutos91@gmail.com</p>
+    <p>Tel : 07 57 57 51 24</p>
+    <a href="https://github.com/hamoutos/portfolio" class="github-link" target="_blank">🔗 Mon GitHub</a>
   </section>
 
-  <footer> <!-- Pied de page -->
-    <p>&copy; 2024 Portfolio Farik Mohamed-Amine. Tous droits réservés.</p>
+  <footer>
+    <p>2026 Portfolio Farik Mohamed-Amine. Tous droits réservés.</p>
   </footer>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
 
 
 
