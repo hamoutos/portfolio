@@ -7,12 +7,6 @@ Ma Veille technologique
 Bienvenu dans ma veille technologie  
 Etant donné que ma formation se porte sur le réseau informatique en général (relation entre machines interconnectés) et que ces mêmes connexions se doivent d'être contrôler, **alors ma veille se portera donc sur la protection et les fuites de donnnées.**
 
-- source: https://blog.interdata.fr/article-securite-infrastructure-protection-systemes-des-menaces
-"INTERDATA, Notre expertise, votre serennité" du 17 juillet 2024.
-
-**Dans cet article, on nous problématise le fait que des infrastructures IT peuvent êtere vulnérable.**
-On nous présente les **4 niveaux de sécurité**, **les moyens de protection de réseau**(tel qu'une anticipation de risque, une vigilance continu du réseau) **les risques possible sont** (ramsowares, DDos et failles de sécurité) et enfin on nous dit **comment sécuriser une infrastructure réseau IT** avec les exemples du parefeu, des systèmes d'infrastructure réseau et des audits d'infrastructures avec la venue des spécialistes pour detecter les eventuelles failles ou vulnérabilités.
-
 - source: https://www.01net.com/actualites/sites-pirates-coute-15-milliards-euros-secteur-audiovisuel-2023-selon-arcom.html
 "Les sites pirates ont couté 1,5 milliard d’euros au secteur audiovisuel en 2023, selon l’Arcom" du 29 novembre 2024
 
