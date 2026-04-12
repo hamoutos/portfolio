@@ -139,6 +139,12 @@ Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’a
 
 
 
+- source: https://www.01net.com/actualites/fuite-donnees-cnil-cibles-prochains-controles.html
+"Fuite de données : la CNIL dévoile les cibles de ses prochains contrôles" du 9 avril 2026
+
+  **Face à l'explosion des cyberattaques visant le milieu associatif, la CNIL lance une campagne de contrôles ciblés sur les fédérations sportives françaises. Plus de 50 fédérations ont été piratées depuis début 2026, compromettant les données de millions de licenciés, dont de nombreux mineurs.**
+La vulnérabilité du secteur a été exacerbée par l'usage d'un prestataire informatique commun à plusieurs organismes et par l'afflux de nouveaux inscrits post-JO 2024. La CNIL surveillera particulièrement la sécurité des données sensibles (santé, casiers judiciaires) et les durées de conservation.
+**Cet audit vise à sanctionner les négligences techniques qui ont déjà conduit à des conséquences concrètes graves, comme l'augmentation des cambriolages ciblés suite au hack de la Fédération Française de Tir.**
 
 - source: https://www.01net.com/actualites/45-millions-adresses-e-mail-exposees-fuite-massive-frappe-france-ministeres-ambassades-concernes.html
 "4,5 millions d’adresses e-mail exposées : une fuite massive frappe la France, des ministères et des ambassades touchés" du 10 avril 2026
