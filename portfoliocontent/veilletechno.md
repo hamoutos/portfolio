@@ -2,7 +2,7 @@ Mohamed-amine
 Farik
 
 Ma Veille technologique  
- **sources: 01.net**  **interdata**  **le monde informatique**
+ sources: **01.net**  **interdata**  **le monde informatique**
   
 Bienvenu dans ma veille technologie  
 Etant donné que ma formation se porte sur le réseau informatique en général (relation entre machines interconnectés) et que ces mêmes connexions se doivent d'être contrôler, **alors ma veille se portera donc sur la protection et les fuites de donnnées.**
