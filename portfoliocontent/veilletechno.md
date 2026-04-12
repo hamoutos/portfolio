@@ -58,6 +58,11 @@ L'auteur, de manière préventive **nous veut être très vigilent avec les cybe
 
 **La start-up chinoise DeepSeek a exposé par mégarde une base de données interne contenant plus d'un million de lignes de journaux, accessible sans aucun mot de passe.** Cette fuite massive incluait des clés secrètes, des détails techniques sur l'infrastructure, mais surtout l'historique complet des discussions des utilisateurs en texte clair. **En raison de cette absence d'authentification, n'importe quel tiers pouvait lire, modifier ou supprimer ces conversations, exposant ainsi toutes les données personnelles partagées avec le chatbot.** Bien que la faille ait été corrigée après l'alerte des chercheurs de Wiz, cet incident souligne les lacunes de sécurité critiques des nouveaux acteurs de l'IA face aux vulnérabilités fondamentales de gestion des données.
 
+- source: https://www.01net.com/actualites/cyberattaque-contre-edf-conforama-donnees-15-millions-francais-vente.html
+"Fuite de données chez EDF et Conforama ? 15 millions de Français concernés" du 4 février 2025
+
+Depuis février 2025, **un pirate nommé Varun a mis en vente sur BreachForums les données de plus de 15 millions de Français, prétendument exfiltrées de Conforama (9,3 millions de clients) et d'EDF (6,3 millions). Les bases de données contiendraient des informations extrêmement précises : adresses postales détaillées, numéros de téléphone, dates de naissance, ainsi que des historiques de commandes et des documents PDF.** Bien que les entreprises n'aient pas confirmé d'intrusion directe, les experts soupçonnent une opération de recyclage de données (credential stuffing) visant à monnayer des informations déjà existantes. Cette mise en vente massive, négociée en cryptomonnaies, aggrave les risques de phishing et d'usurpation d'identité pour une part considérable de la population française.
+
 - source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
 "Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
 
