@@ -81,7 +81,7 @@ Steam a retiré le titre et recommande désormais un reformatage complet du syst
 En exploitant des identifiants déjà dérobés par des virus infostealers, les pirates parviennent à valider des accès en utilisant des méthodes de connexion non interactives (automatisées). Cette technique permet de contourner l'authentification multifactorielle (2FA), qui ne se déclenche pas, créant un angle mort critique pour la sécurité des données. **Cette offensive massive vise à exfiltrer des informations professionnelles et à préparer des campagnes de phishing ultra-ciblées à partir de comptes légitimes compromis.**
 
 - source: https://www.01net.com/actualites/milliers-personnes-privees-chauffage-malwares-ciblent-systemes-industriels.html
-"Des milliers de personnes privées de chauffage : des malwares ciblent des systèmes industriels" du 26 février 202
+"Des milliers de personnes privées de chauffage : des malwares ciblent des systèmes industriels" du 26 février 2025
 
   **Les cyberattaques contre les systèmes de contrôle industriels (ICS) connaissent une escalade alarmante, avec une hausse de 87 % des ransomwares en un an.** Des malwares spécialisés comme FrostyGoop ou Fuxnet ne se contentent plus de voler des données, mais manipulent des protocoles industriels (comme Modbus) pour provoquer des pannes physiques réelles, impactant l'énergie, l'eau ou la santé. **Ces offensives, souvent liées à des tensions géopolitiques, utilisent l'exfiltration d'identifiants et la compromission de capteurs pour saboter des infrastructures critiques, transformant la vulnérabilité numérique en un risque direct pour la sécurité publique et la survie des populations.**
 
@@ -91,9 +91,19 @@ En exploitant des identifiants déjà dérobés par des virus infostealers, les 
   **La plateforme d'échange Bybit a été victime du plus grand piratage de l'histoire des cryptomonnaies, orchestré par le groupe nord-coréen Lazarus, avec le vol de 1,5 milliard de dollars en ethers.** En réponse à cette exfiltration massive, Bybit a lancé une plateforme de traque collaborative permettant de pister en temps réel le blanchiment des fonds sur la blockchain. Cette initiative vise à briser l'anonymat des flux financiers vers la Corée du Nord en incitant les "chasseurs de primes" à identifier les portefeuilles complices pour geler les actifs. **Ce dossier illustre la dimension géopolitique des fuites de données financières, où les fonds volés servent directement à financer des programmes d'armement via des techniques de mixage sophistiquées.**
 
 - source: https://www.01net.com/actualites/orange-pirate-cybercriminel-diffuse-montagne-donnees-volees.html
-"Orange a été piraté, un cybercriminel diffuse une montagne de données volées" du 26 février 2026
+"Orange a été piraté, un cybercriminel diffuse une montagne de données volées" du 26 février 2025
 
   **La filiale roumaine d’Orange a subi une exfiltration de 6,5 Go de données par le groupe HellCat.** En exploitant une faille sur l'outil interne Jira, les pirates ont dérobé les informations de 600 000 clients et 380 000 e-mails, incluant des contrats, du code source et des coordonnées bancaires partielles. Suite au refus d'Orange de payer la rançon, l'intégralité des fichiers a été publiée sur BreachForums.**Bien que certaines données soient jugées obsolètes, cette fuite expose massivement les utilisateurs à des campagnes de phishing et à l'usurpation d'identité.**
+
+- source: https://www.01net.com/actualites/244-millions-mots-passe-pirates-etes-vous-touche-cette-nouvelle-fuite-donnees.html
+"244 millions de mots de passe piratés : êtes-vous touché par cette nouvelle fuite de données ?" du 27 février 2025
+
+  **Le chercheur Troy Hunt a intégré à la plateforme Have I Been Pwned une base de données massive de 1,5 To, baptisée « ALIEN TXTBASE », découverte sur un canal Telegram.** Cette fuite, issue principalement de virus infostealers, expose 284 millions d'adresses e-mail et 244 millions de mots de passe inédits. Contrairement aux piratages de sites spécifiques, ces données proviennent de millions d'appareils infectés, alimentant des réseaux de distribution anonymes à grande échelle.**Cette mise à jour souligne l'explosion des logiciels voleurs d'informations et la nécessité de vérifier régulièrement ses identifiants pour prévenir les attaques par recyclage de mots de passe.**
+
+
+
+
+
 
 - source: https://www.01net.com/actualites/apres-cyberattaque-80-lycees-hauts-france-prives-ordinateurs.html
 "Cyberattaque contre des lycées français : les données des élèves ont été piratées, c’est confirmé" du 16 octobre 2025
