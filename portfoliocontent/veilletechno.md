@@ -2,7 +2,7 @@ Mohamed-amine
 Farik
 
 Ma Veille technologique  
- sources: **01.net**  /**interdata**/  **le monde informatique**
+ sources: **01.net**  / **le monde informatique**
   
 Bienvenu dans ma veille technologie  
 Etant donné que ma formation se porte sur le réseau informatique en général (relation entre machines interconnectés) et que ces mêmes connexions se doivent d'être contrôler, **alors ma veille se portera donc sur la protection et les fuites de donnnées.**
@@ -99,6 +99,11 @@ En exploitant des identifiants déjà dérobés par des virus infostealers, les 
 "244 millions de mots de passe piratés : êtes-vous touché par cette nouvelle fuite de données ?" du 27 février 2025
 
   **Le chercheur Troy Hunt a intégré à la plateforme Have I Been Pwned une base de données massive de 1,5 To, baptisée « ALIEN TXTBASE », découverte sur un canal Telegram.** Cette fuite, issue principalement de virus infostealers, expose 284 millions d'adresses e-mail et 244 millions de mots de passe inédits. Contrairement aux piratages de sites spécifiques, ces données proviennent de millions d'appareils infectés, alimentant des réseaux de distribution anonymes à grande échelle.**Cette mise à jour souligne l'explosion des logiciels voleurs d'informations et la nécessité de vérifier régulièrement ses identifiants pour prévenir les attaques par recyclage de mots de passe.**
+
+- source: https://www.lemondeinformatique.fr/actualites/lire-entretien-olivier-biton-dsi-groupe-credit-agricole--les-investissements-en-ia-sont-colossaux-99367.html
+"Pour renforcer la cybersécurité, le Crédit Agricole multiplie les entraînements aux crises" du 27 février 2025
+  **Pour renforcer sa cyber-résilience, le groupe Crédit Agricole sanctuarise un budget de plusieurs centaines de milliers d’euros dédié à la préparation contre les fuites de données et les intrusions.** La stratégie repose sur une sensibilisation continue via des campagnes de phishing ciblé de plus en plus complexes (incluant bientôt des Deepfakes) et des exercices de crise grandeur nature. L’objectif est de fluidifier la remontée d’informations vers la direction pour répondre aux exigences de la réglementation DORA, qui impose des délais de reporting très courts en cas d'incident.
+**Cette approche souligne que la gestion des données ne s'arrête pas à la protection, mais inclut la capacité à communiquer sous pression et à reconstruire un système d'information sur le long terme après une attaque.**
 
 
 
