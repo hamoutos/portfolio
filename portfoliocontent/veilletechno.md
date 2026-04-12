@@ -93,7 +93,7 @@ En exploitant des identifiants déjà dérobés par des virus infostealers, les 
 - source: https://www.01net.com/actualites/orange-pirate-cybercriminel-diffuse-montagne-donnees-volees.html
 "Orange a été piraté, un cybercriminel diffuse une montagne de données volées" du 26 février 2026
 
- **La filiale roumaine d’Orange a subi une exfiltration de 6,5 Go de données par le groupe HellCat.** En exploitant une faille sur l'outil interne Jira, les pirates ont dérobé les informations de 600 000 clients et 380 000 e-mails, incluant des contrats, du code source et des coordonnées bancaires partielles. Suite au refus d'Orange de payer la rançon, l'intégralité des fichiers a été publiée sur BreachForums.**Bien que certaines données soient jugées obsolètes, cette fuite expose massivement les utilisateurs à des campagnes de phishing et à l'usurpation d'identité.**
+  **La filiale roumaine d’Orange a subi une exfiltration de 6,5 Go de données par le groupe HellCat.** En exploitant une faille sur l'outil interne Jira, les pirates ont dérobé les informations de 600 000 clients et 380 000 e-mails, incluant des contrats, du code source et des coordonnées bancaires partielles. Suite au refus d'Orange de payer la rançon, l'intégralité des fichiers a été publiée sur BreachForums.**Bien que certaines données soient jugées obsolètes, cette fuite expose massivement les utilisateurs à des campagnes de phishing et à l'usurpation d'identité.**
 
 - source: https://www.01net.com/actualites/apres-cyberattaque-80-lycees-hauts-france-prives-ordinateurs.html
 "Cyberattaque contre des lycées français : les données des élèves ont été piratées, c’est confirmé" du 16 octobre 2025
