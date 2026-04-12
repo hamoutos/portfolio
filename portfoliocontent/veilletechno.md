@@ -139,6 +139,33 @@ Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- source: https://www.01net.com/actualites/fuite-donnees-frappe-kfc-france-informations-clients-compromises.html
+"Une fuite de données frappe KFC France, les informations des clients ont été compromises" du 8 avril 2026
+
+  **KFC France a été victime d'un piratage ciblant son programme de fidélité « Colonel Club », entraînant une fuite de données personnelles pour ses membres. Les pirates ont exfiltré les noms, prénoms, adresses e-mail, numéros de téléphone et numéros de fidélité.**
+Bien que les données bancaires soient épargnées, l'enseigne a suspendu les accès frauduleux, déposé plainte et notifié la CNIL. Cet incident s'inscrit dans une vague de cyberattaques sans précédent touchant 40 % des entreprises françaises entre 2025 et 2026. **KFC appelle désormais ses clients à une vigilance accrue face aux tentatives de phishing personnalisées utilisant ces informations volées.**
+
 - source: https://www.01net.com/actualites/fuite-donnees-cnil-cibles-prochains-controles.html
 "Fuite de données : la CNIL dévoile les cibles de ses prochains contrôles" du 9 avril 2026
 
