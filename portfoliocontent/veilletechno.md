@@ -74,6 +74,11 @@ L'auteur, de manière préventive **nous veut être très vigilent avec les cybe
 **Le jeu gratuit PirateFi, disponible sur Steam début 2026, s'est révélé être un malware conçu pour le vol massif de données personnelles. Ce logiciel malveillant ciblait spécifiquement les cookies de navigation, permettant aux cybercriminels de contourner les mots de passe pour accéder aux comptes en ligne des utilisateurs par usurpation de session. L'attaque, qui a touché plus de 800 joueurs, était couplée à une campagne de phishing par IA sur Telegram pour inciter à l'installation.**
 Steam a retiré le titre et recommande désormais un reformatage complet du système, illustrant une fois de plus comment des applications tierces en apparence inoffensives peuvent servir de vecteurs de fuite de données critiques.
 
+- source: https://www.01net.com/actualites/ransomware-ghost-fait-ravages-plus-70-pays-touches.html
+"Le ransomware Ghost fait des ravages : plus de 70 pays ont été touchés" du 21 février 2025
+
+**Le FBI et l'agence américaine de cybersécurité alertent sur le ransomware Ghost, actif dans 70 pays et spécialisé dans la double extorsion.** Ce malware ne se contente pas de bloquer les systèmes, il exfiltre des données sensibles pour menacer de les vendre, rendant les simples sauvegardes insuffisantes pour protéger la confidentialité. Les pirates pénètrent dans les réseaux en exploitant des failles logicielles obsolètes (VPN Fortinet, Microsoft Exchange) non corrigées par les entreprises.**Cette menace souligne l'importance vitale des mises à jour de sécurité pour prévenir les fuites de données massives dans des secteurs critiques comme la santé, l'éducation et les infrastructures gouvernementales.**
+
 - source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
 "Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
 
