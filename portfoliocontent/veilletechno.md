@@ -53,6 +53,11 @@ Cet article nous informe de la **fuite de données que la fédération de montag
 On parle de 77 256 adhérents d'un coté, et 120 000 de l'autre qui ont vu leur **données personnelles exposées sur Internet** (nom, prénom, date de naissance, Email, adresse postale,identifiant et numéro de téléphone).
 L'auteur, de manière préventive **nous veut être très vigilent avec les cyberattaques** et indirectement nous **demande d'être très Minutieux**
 
+- source: https://www.01net.com/actualites/deepseek-subit-fuite-donnees-faille-expose-requetes-utilisateurs.html
+"DeepSeek subit une fuite de données : une faille expose les requêtes des utilisateurs" du 30 janvier 2025
+
+**La start-up chinoise DeepSeek a exposé par mégarde une base de données interne contenant plus d'un million de lignes de journaux, accessible sans aucun mot de passe.** Cette fuite massive incluait des clés secrètes, des détails techniques sur l'infrastructure, mais surtout l'historique complet des discussions des utilisateurs en texte clair. **En raison de cette absence d'authentification, n'importe quel tiers pouvait lire, modifier ou supprimer ces conversations, exposant ainsi toutes les données personnelles partagées avec le chatbot.** Bien que la faille ait été corrigée après l'alerte des chercheurs de Wiz, cet incident souligne les lacunes de sécurité critiques des nouveaux acteurs de l'IA face aux vulnérabilités fondamentales de gestion des données.
+
 - source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
 "Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
 
