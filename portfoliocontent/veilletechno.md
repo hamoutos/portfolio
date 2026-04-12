@@ -10,7 +10,7 @@ Etant donné que ma formation se porte sur le réseau informatique en général 
 - source: https://www.01net.com/actualites/sites-pirates-coute-15-milliards-euros-secteur-audiovisuel-2023-selon-arcom.html
 "Les sites pirates ont couté 1,5 milliard d’euros au secteur audiovisuel en 2023, selon l’Arcom" du 29 novembre 2024
 
- Cet article met avant les **pertes astronomiques que le piratages de chaines Tv endurent.**
+  Cet article met avant les **pertes astronomiques que le piratages de chaines Tv endurent.**
 En effet, les chiffres reportés tel que les **pirates ont coutés environ 12 Millions d'euros aux finances publics Francaise** ou que **le marché illégal prend 12% du marché de l'audio soit 12 milliards d'Euro** montre que les pertes sont gigantesque.
 C'est pourquoi l'Arcom en fonction de ce qui est diffusé, bloque ou incite les chaines Tv a baissé leur abonnement.
 
@@ -107,6 +107,6 @@ L’attaque repose sur l’utilisation d’un ransomware, d’une intrusion rés
 - source: https://www.01net.com/actualites/pour-decrocher-le-bac-deux-ados-ont-pirate-leur-lycee.html
 "Pour décrocher le bac, deux ados ont piraté leur lycée : ils sont condamnés" du 16 octobre 2025
 
- **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
+  **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
 **Grâce à cette manipulation, ils ont pu obtenir le bac sans difficulté.** L’affaire a été découverte lorsque l’un des deux a diffusé des messages privés volés.
 Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
