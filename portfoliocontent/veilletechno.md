@@ -44,7 +44,7 @@ Pour identifier des lieux sur vos clichés, l'application Photos ne se contente 
 - source: https://www.01net.com/actualites/nouvelle-vague-cyberattaques-france-donnees-200-000-personnes-piratees.html
 "Nouvelle vague de cyberattaques en France : les données de 200 000 personnes ont été piratées" du 23 janvier 2025.
 
-**Cet article nous informe de la fuite de données que la fédération de montagne, d'Escalade et de tir à l'arc a subi.**
+ **Cet article nous informe de la fuite de données que la fédération de montagne, d'Escalade et de tir à l'arc a subi.**
 On parle de 77 256 adhérents d'un coté, et 120 000 de l'autre qui ont vu leur **données personnelles exposées sur Internet** (nom, prénom, date de naissance, Email, adresse postale,identifiant et numéro de téléphone).
 L'auteur, de manière préventive **nous veut être très vigilent avec les cyberattaques** et indirectement nous **demande d'être très Minutieux**
 
