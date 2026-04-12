@@ -68,6 +68,12 @@ L'auteur, de manière préventive **nous veut être très vigilent avec les cybe
 
 **Chronopost a été victime d'une cyberattaque ayant entraîné l'exfiltration des données personnelles de 210 000 clients en France. Outre les noms, adresses et numéros de téléphone, la fuite est jugée particulièrement critique car elle inclut les signatures numérisées des destinataires, ouvrant la voie à des usurpations d'identité et à la falsification de documents.** Ces informations volées permettent aux cybercriminels de créer des campagnes de phishing ultra-personnalisées, notamment via de fausses alertes de livraison de colis pour voler des coordonnées bancaires. **L'entreprise a notifié la CNIL et renforcé la sécurité de l'application visée pour stopper l'intrusion.**
 
+- source: https://www.01net.com/actualites/jeu-steam-infecte-malware-retire-boutique.html
+"Un jeu Steam infecté par un malware retiré de la boutique" du 15 février 2025
+
+**Le jeu gratuit PirateFi, disponible sur Steam début 2026, s'est révélé être un malware conçu pour le vol massif de données personnelles. Ce logiciel malveillant ciblait spécifiquement les cookies de navigation, permettant aux cybercriminels de contourner les mots de passe pour accéder aux comptes en ligne des utilisateurs par usurpation de session. L'attaque, qui a touché plus de 800 joueurs, était couplée à une campagne de phishing par IA sur Telegram pour inciter à l'installation.**
+Steam a retiré le titre et recommande désormais un reformatage complet du système, illustrant une fois de plus comment des applications tierces en apparence inoffensives peuvent servir de vecteurs de fuite de données critiques.
+
 - source: https://www.01net.com/actualites/bouygues-alerte-vague-arnaques-sms-vise-abonnes.html?
 "Bouygues alerte : une vague d’arnaques par SMS vise ses abonnés" du 14 octobre 2025
 
