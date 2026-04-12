@@ -125,3 +125,24 @@ L’attaque repose sur l’utilisation d’un ransomware, d’une intrusion rés
   **Deux élèves du lycée Bréquigny à Rennes ont accédé aux ordinateurs des professeurs en volant un passe-partout et en installant un keylogger,** un logiciel malveillant qui enregistre toutes les frappes au clavier. Ils ont ainsi récupéré les identifiants ProNote des enseignants et ont modifié leurs notes, appréciations et retards pendant plusieurs années. 
 **Grâce à cette manipulation, ils ont pu obtenir le bac sans difficulté.** L’affaire a été découverte lorsque l’un des deux a diffusé des messages privés volés.
 Les deux adolescents ont été condamnés, l’un à de la prison ferme et l’autre à du sursis.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- source: https://www.01net.com/actualites/45-millions-adresses-e-mail-exposees-fuite-massive-frappe-france-ministeres-ambassades-concernes.html
+"4,5 millions d’adresses e-mail exposées : une fuite massive frappe la France, des ministères et des ambassades touchés" du 10 avril 2026
+
+  **une base de données appartenant à la société lyonnaise Alinto a exposé par erreur 4,5 millions d'adresses e-mail uniques et 40 millions d'enregistrements SMTP.** Cette fuite massive touche des géants français (Renault, Carrefour, L’Oréal, Hermès) ainsi que de nombreuses institutions publiques (ministères, ambassades).
+L'exposition des métadonnées (expéditeurs, destinataires, objets, adresses IP) constitue une mine d'or pour l'espionnage industriel et le phishing ciblé.
+Ces informations permettent aux cybercriminels de reconstituer des organigrammes et d'usurper l'identité de contacts habituels pour infiltrer des organisations stratégiques. **Bien que l'accès ait été sécurisé dès le lendemain de sa découverte par Cybernews, l'incident souligne la vulnérabilité des prestataires de messagerie qui centralisent les flux de données de multiples clients critiques.**
